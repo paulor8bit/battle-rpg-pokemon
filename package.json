@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/paulor8bit/battle-rpg-pokemon.git",
   "author": "paulor8bit <thunder_momon@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
 }
