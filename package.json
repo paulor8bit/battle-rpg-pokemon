@@ -1,0 +1,8 @@
+{
+  "name": "pokemonbattle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paulor8bit/battle-rpg-pokemon.git",
+  "author": "paulor8bit <thunder_momon@hotmail.com>",
+  "license": "MIT"
+}
